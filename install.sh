@@ -24,7 +24,7 @@ if [ $jawab = "Y" ] || [ $jawab = "y" ]; then
 
 C : Arikun-IndoSec       
 ==================";
-sudo cp -r /src/runner /usr/bin 
+sudo cp -r src/runner /usr/bin 
 clear
 echo "
    ___ 
